@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConverterJPGtoPNG</string>
+    <string name="jpgtopng">Конвертировать JPG в PNG</string>
+</resources>
